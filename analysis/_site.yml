@@ -1,7 +1,7 @@
-name: "Reproducibility_Website_Tutorial"
+name: Reproducibility_Website_Tutorial
 output_dir: ../docs
 navbar:
-  title: "Reproducibility_Website_Tutorial"
+  title: Reproducibility_Website_Tutorial
   left:
   - text: Home
     href: index.html
@@ -9,6 +9,10 @@ navbar:
     href: about.html
   - text: License
     href: license.html
+  right:
+  - icon: fa-github
+    text: Source code
+    href: https://github.com/DuhmanM/Website
 output:
   workflowr::wflow_html:
     toc: yes
