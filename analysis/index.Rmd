@@ -1,5 +1,5 @@
 ---
-title: "Home"
+title: "Teeth"
 site: workflowr::wflow_site
 output:
   workflowr::wflow_html:
@@ -8,10 +8,14 @@ editor_options:
   chunk_output_type: console
 ---
 
-Welcome to my first workflowr website.
+**Hello, World!**
+
+### My name is Duhman. Welcome to my first workflowr website.
 
 * [Teeth growth analysis](teeth.html)
 
 * [Also, check out my friend Hagerah Malik's website here](https://malikh96.github.io/myproject/)
 
-* Go Team BSD-QBio6 Arabidopsis thaliana
+
+
+###### *BSD-QBio6 Arabidopsis thaliana group*
